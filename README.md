@@ -12,6 +12,10 @@ Architecture Image
 3. pgAdmin 4
 
 ## 🎯 Objectives
+1. Create an RDS Instance and configure security for access.
+2. Define database Schemas and tables.
+3. Launch an EC2 Instance for hosting the app.
+4. Connect the app to RDS using the connection string.
 
 ## Part 1: Section Title
 
