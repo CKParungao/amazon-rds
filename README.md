@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e2a71a9d-4ccb-447a-91ad-66e8d282f742)![image](https://github.com/user-attachments/assets/b8393494-a9c4-409e-866f-0f67f70fff66)# ☁️ Get Started: Setting Up a Relational Database in Amazon RDS ☁️
+# ☁️ Get Started: Setting Up a Relational Database in Amazon RDS ☁️
 
 Project Overview
 
