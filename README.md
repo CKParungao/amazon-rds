@@ -28,7 +28,7 @@ Image
 8. The master username should be `postgres` as the default. Meanwhile, provide the master password `masterpw`.
 9. The DB instance class `db.t4g.micro` should be left in default.
 10. In Storage, use the minimum `20` GiB for the allocated storage. Expand `Additional storage configuration` and then tick the checkbox of `Enable storage autoscaling`.
-11. Under the Connectivity section, set the Public access to `Yes`.
+11. Move onto the Connectivity section and set the Public access to `Yes`.
 12. 
 
 ## ✒️ Part 2: Define database schemas and tables.
