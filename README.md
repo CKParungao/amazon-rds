@@ -14,6 +14,6 @@ Architecture Image
 
 ## Authors
 ### Activity and Code Materials Prepared by:
-- KodeKloud, Sanjeev Thiyagarajan ([avizway1](https://github.com/avizway1/aws-projects))
+- KodeKloud, Sanjeev Thiyagarajan
 ### Learning Material Prepared by:
 - Crystal Katherine Parungao (CKParungao)
