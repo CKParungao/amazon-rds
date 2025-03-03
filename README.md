@@ -36,7 +36,7 @@ Image
 ![image](https://github.com/user-attachments/assets/cd3ce6aa-62ee-4cbb-b564-3c012419d5a4)
 
 12. In the VPC security group (firewall), choose `Create new` and type `my-db-sg` in the New VPC security group name.
-13. Leave everything as they are and finally, click `Create database`.
+13. Finally, click `Create database`.
 
 ## ✒️ Part 2: Define database schemas and tables.
 
