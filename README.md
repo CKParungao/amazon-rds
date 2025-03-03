@@ -29,7 +29,8 @@ Image
 9. The DB instance class `db.t4g.micro` should be left in default.
 10. In Storage, use the minimum `20` GiB for the allocated storage. Expand `Additional storage configuration` and then tick the checkbox of `Enable storage autoscaling`.
 11. Move onto the Connectivity section and set the Public access to `Yes`.
-12. 
+12. In the VPC security group (firewall), choose `Create new` and type `my-db-sg` in the New VPC security group name.
+13. Leave everything as they are and then click `Create database`.
 
 ## ✒️ Part 2: Define database schemas and tables.
 
