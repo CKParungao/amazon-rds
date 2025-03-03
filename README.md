@@ -17,13 +17,17 @@ Image
 3. **Launch an EC2 Instance** for hosting the app.
 4. **Connect the app to RDS** using the connection string.
 
-## ✒️ Part 1: **Create an RDS Instance** and configure security for access.
+## ✒️ Part 1: Create an RDS Instance and configure security for access.
 
-## ✒️ Part 2: **Define database schemas and tables.**
 
-## ✒️ Part 3: **Launch an EC2 Instance** for hosting the app.
+## ✒️ Part 2: Define database schemas and tables.
 
-## ✒️ Part 4: **Connect the app to RDS** using the connection string.
+
+## ✒️ Part 3: Launch an EC2 Instance for hosting the app.
+
+
+## ✒️ Part 4: Connect the app to RDS using the connection string.
+
 
 ## 📚 Authors
 ### Activity and Code Materials:
