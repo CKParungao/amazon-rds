@@ -13,7 +13,7 @@ Architecture Image
 ## Part 1: Section Title
 
 ## Authors
-### Activity and Code Materials Prepared by:
-- KodeKloud, Sanjeev Thiyagarajan
-### Learning Material Prepared by:
+### Activity and Code Materials:
+- ([KodeKloud](https://youtu.be/ylmwaDUMV9c?si=jGnEN8NObwqD8-jc&t=421)), Sanjeev Thiyagarajan
+### Learning Material:
 - Crystal Katherine Parungao (CKParungao)
