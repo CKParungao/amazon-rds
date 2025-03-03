@@ -1,6 +1,6 @@
 # ☁️ Get Started: Setting Up a Relational Database in Amazon RDS ☁️
 
-Project Overview
+Amazon RDS is chuchu chuchu. In this activity, you will learn how to create, manage, and scale your own database in the cloud using Amazon RDS.
 
 Image
 
