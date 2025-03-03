@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8e6b35f3-7d97-449c-8bd6-10b90db5fdaf)# ☁️ Get Started: Setting Up a Relational Database in Amazon RDS ☁️
+![image](https://github.com/user-attachments/assets/52044f0d-5c94-4e89-8b9d-09b487b9bd7f)# ☁️ Get Started: Setting Up a Relational Database in Amazon RDS ☁️
 
 Project Overview
 
@@ -53,7 +53,13 @@ Image
 ![image](https://github.com/user-attachments/assets/1f3bd768-6e56-4b12-90da-92932fd13f07)
 
 17. Launch the pgAdmin application in your desktop.
-18. On the left tab, right-click on `Servers`, select `Register`->`Server`.
+18. On the left tab, right-click on `Servers` and select `Register`->`Server`.
+19. Type `aws-rds` for the server name.
+20. On the Connection tab, paste the copied endpoint from RDS instance.
+
+![image](https://github.com/user-attachments/assets/d37f6d74-20e4-453c-9eb1-6fe4b04f163f)
+
+21. Type in `masterpw` for the Password then click the `Save` button. 
 
 ## ✒️ Part 2: Define database schemas and tables.
 
