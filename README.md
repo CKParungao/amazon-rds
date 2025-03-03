@@ -1,4 +1,4 @@
-# ☁️ Get Started: Setting Up a Relational Database in Amazon RDS ☁️
+![image](https://github.com/user-attachments/assets/8e6b35f3-7d97-449c-8bd6-10b90db5fdaf)# ☁️ Get Started: Setting Up a Relational Database in Amazon RDS ☁️
 
 Project Overview
 
@@ -48,8 +48,11 @@ Image
 
 ![image](https://github.com/user-attachments/assets/c2ae0f0d-4507-48ff-acae-9c6f3585814c)
 
-16. 
+16. Provide the sample connection details in the JS file `index.js`.
 
+![image](https://github.com/user-attachments/assets/1f3bd768-6e56-4b12-90da-92932fd13f07)
+
+17. 
 
 ## ✒️ Part 2: Define database schemas and tables.
 
