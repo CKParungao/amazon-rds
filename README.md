@@ -20,6 +20,9 @@ Image
 ## ✒️ Part 1: Create an RDS Instance and configure security for access.
 1. Log in to your AWS Console.
 2. Navigate to `RDS` then click the `Create database` button.
+3. Select `Standard create` for the database creation method.
+4. Click `PostgreSQL` for the engine type and retain the `default engine version`.
+5.  
 
 ## ✒️ Part 2: Define database schemas and tables.
 
