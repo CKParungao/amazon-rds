@@ -32,6 +32,9 @@ Image
 ![image](https://github.com/user-attachments/assets/57ec6db5-a30e-4887-807d-6fcd72facf22)
 
 11. Move onto the Connectivity section and set the Public access to `Yes`.
+
+![image](https://github.com/user-attachments/assets/cd3ce6aa-62ee-4cbb-b564-3c012419d5a4)
+
 12. In the VPC security group (firewall), choose `Create new` and type `my-db-sg` in the New VPC security group name.
 13. Leave everything as they are and then click `Create database`.
 
