@@ -19,8 +19,7 @@ Image
 
 ## ✒️ Part 1: Create an RDS Instance and configure security for access.
 1. Log in to your AWS Console.
-2. Navigate to `RDS`.
-3. Click the `Create database` button.
+2. Navigate to `RDS` then click the `Create database` button.
 
 ## ✒️ Part 2: Define database schemas and tables.
 
