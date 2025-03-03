@@ -25,10 +25,10 @@ Image
 5. Choose `Free tier` for the template.
 6. Automatically, the deployment option should be for a `Single-AZ DB instance deployment (1 instance)` only.
 7. Type `my-first-db` for the DB instance identifier.
-8. The master username should be `postgres` as the default.
-9. Provide the master password `masterpw`.
-10. The DB instance class `db.t4g.micro` should be left in default.
-11. Use the minimum `20` GiB for the allocated storage and tick `Enable storage autoscaling`.
+8. The master username should be `postgres` as the default. Meanwhile, provide the master password `masterpw`.
+9. The DB instance class `db.t4g.micro` should be left in default.
+10. In Storage, use the minimum `20` GiB for the allocated storage. Expand `Additional storage configuration` and then tick the checkbox of `Enable storage autoscaling`.
+11. Under the Connectivity section, set the Public access to `Yes`.
 12. 
 
 ## ✒️ Part 2: Define database schemas and tables.
