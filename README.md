@@ -1,4 +1,4 @@
-# ☁️ Get Started: Setting Up a Relational Database in Amazon RDS ☁️
+![image](https://github.com/user-attachments/assets/e2a71a9d-4ccb-447a-91ad-66e8d282f742)![image](https://github.com/user-attachments/assets/b8393494-a9c4-409e-866f-0f67f70fff66)# ☁️ Get Started: Setting Up a Relational Database in Amazon RDS ☁️
 
 Project Overview
 
@@ -58,6 +58,19 @@ Image
 7. Type in `masterpw` for the Password then click the `Save` button.
 8. Expand `aws-rds`. Right-click on `Databases` then select `Create`->`Database`
 9. Use `myapp` as the Database name then click the `Save` button.
+
+## ✒️ Part 3: Housekeeping
+1. Once you have finished the activity and obtained the required screenshots, delete all created services and instances in RDS and in the pgAdmin app.
+2. Select on the radio button of `my-first-db`, then click on `Actions`->`Delete`.
+
+![image](https://github.com/user-attachments/assets/fc5113c2-19f8-4a9f-a703-b47d2580551c)
+
+3. Deselect the ticked boxes `Create final snapshot` and `Retain automated backups`.
+4. Tick on the deletion acknowledgment box then type `delete me` as a confirmation.
+
+![image](https://github.com/user-attachments/assets/fa759fc9-fe12-46be-a5cd-3b0d6f711961)
+
+5. Disconnect and delete the databases `myapp` and `aws-rds` then remove the PostgreSQL server in the pgAdmin application.
 
 ## 📚 Authors
 ### Activity and Code Materials
