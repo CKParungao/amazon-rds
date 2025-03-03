@@ -2,25 +2,31 @@
 
 Project Overview
 
-Architecture Image
+Image
 
-**Disclaimer:** This activity is based on Sanjeev Thiyagarajan's [tutorial](https://youtu.be/ylmwaDUMV9c?si=jGnEN8NObwqD8-jc&t=421) and AWS 2025 UI.
+**Disclaimer:** This activity is based on Sanjeev Thiyagarajan's [tutorial](https://youtu.be/ylmwaDUMV9c?si=jGnEN8NObwqD8-jc&t=421).
 
 ## 📋 Requirements
-1. Browser (Google Chrome, Microsoft Edge, Opera GX, etc.)
-2. AWS Account
-3. pgAdmin 4
+1. **Browser** (Google Chrome, Microsoft Edge, Opera GX, etc.)
+2. **AWS Account**
+3. **pgAdmin 4**
 
 ## 🎯 Objectives
-1. Create an RDS Instance and configure security for access.
-2. Define database Schemas and tables.
-3. Launch an EC2 Instance for hosting the app.
-4. Connect the app to RDS using the connection string.
+1. **Create an RDS Instance** and configure security for access.
+2. **Define database schemas and tables.**
+3. **Launch an EC2 Instance** for hosting the app.
+4. **Connect the app to RDS** using the connection string.
 
-## Part 1: Section Title
+## ✒️ Part 1: **Create an RDS Instance** and configure security for access.
 
-## Authors
+## ✒️ Part 2: **Define database schemas and tables.**
+
+## ✒️ Part 3: **Launch an EC2 Instance** for hosting the app.
+
+## ✒️ Part 4: **Connect the app to RDS** using the connection string.
+
+## 📚 Authors
 ### Activity and Code Materials:
-- [KodeKloud](https://youtu.be/ylmwaDUMV9c?si=jGnEN8NObwqD8-jc&t=421), Sanjeev Thiyagarajan
+- Sanjeev Thiyagarajan ([KodeKloud](https://youtu.be/ylmwaDUMV9c?si=jGnEN8NObwqD8-jc&t=421))
 ### Learning Material:
-- Crystal Katherine Parungao (CKParungao)
+- Crystal Katherine Parungao ([CKParungao](https://github.com/CKParungao))
