@@ -28,6 +28,9 @@ Image
 8. The master username should be `postgres` as the default. Meanwhile, provide the master password `masterpw`.
 9. The DB instance class `db.t4g.micro` should be left in default.
 10. In Storage, use the minimum `20` GiB for the allocated storage. Expand `Additional storage configuration` and then tick the checkbox of `Enable storage autoscaling`.
+
+![image](https://github.com/user-attachments/assets/57ec6db5-a30e-4887-807d-6fcd72facf22)
+
 11. Move onto the Connectivity section and set the Public access to `Yes`.
 12. In the VPC security group (firewall), choose `Create new` and type `my-db-sg` in the New VPC security group name.
 13. Leave everything as they are and then click `Create database`.
