@@ -4,9 +4,12 @@ Project Overview
 
 Architecture Image
 
-**Disclaimer:** This activity is based on Sanjeev Thiyagarajan's [project](https://youtu.be/ylmwaDUMV9c?si=jGnEN8NObwqD8-jc&t=421) and AWS 2025 UI.
+**Disclaimer:** This activity is based on Sanjeev Thiyagarajan's [tutorial](https://youtu.be/ylmwaDUMV9c?si=jGnEN8NObwqD8-jc&t=421) and AWS 2025 UI.
 
 ## 📋 Requirements
+1. Browser (Google Chrome, Microsoft Edge, Opera GX, etc.)
+2. AWS Account
+3. pgAdmin 4
 
 ## 🎯 Objectives
 
