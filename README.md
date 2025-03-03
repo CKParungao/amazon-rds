@@ -9,7 +9,7 @@ Image
 ## 📋 Requirements
 1. **Browser** (Google Chrome, Microsoft Edge, Opera GX, etc.)
 2. **AWS Account**
-3. **pgAdmin 4**
+3. [**pgAdmin 4**](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v9.0/windows/)
 
 ## 🎯 Objectives
 1. **Create an RDS Instance** and configure security for access.
