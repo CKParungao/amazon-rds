@@ -37,32 +37,27 @@ Image
 ![image](https://github.com/user-attachments/assets/cd3ce6aa-62ee-4cbb-b564-3c012419d5a4)
 
 12. In the VPC security group (firewall), choose `Create new` and type `my-db-sg` in the New VPC security group name.
-13. Finally, click `Create database`.
-14. Once the Status of the database turns to Available, click on `my-first-db`.
+13. Finally, click `Create database` and wait for the Status to become `Available`.
+
+## ✒️ Part 2: Connect the App to RDS using the connection string.
+1. Once the Status of the database turns to Available, click on `my-first-db`.
 
 ![image](https://github.com/user-attachments/assets/4ef215c5-6f49-496a-9404-a9a382f8201a)
 
-15. Copy the `Endpoint`.
+2. Copy the `Endpoint`.
 
 ![image](https://github.com/user-attachments/assets/c2ae0f0d-4507-48ff-acae-9c6f3585814c)
 
-16. Provide the sample connection details in the JS file `index.js`.
-
-![image](https://github.com/user-attachments/assets/1f3bd768-6e56-4b12-90da-92932fd13f07)
-
-## ✒️ Part 2: Connect the App to RDS using the connection string.
-
-17. Launch the pgAdmin application in your desktop.
-18. On the left tab, right-click on `Servers` and select `Register`->`Server`.
-19. Type `aws-rds` for the server name.
-20. On the Connection tab, paste the copied endpoint from RDS instance.
+3. Launch the pgAdmin application in your desktop.
+4. On the left tab, right-click on `Servers` and select `Register`->`Server`.
+5. Type `aws-rds` for the server name.
+6. On the Connection tab, paste the copied endpoint from RDS instance.
 
 ![image](https://github.com/user-attachments/assets/d37f6d74-20e4-453c-9eb1-6fe4b04f163f)
 
-21. Type in `masterpw` for the Password then click the `Save` button.
-22. Expand `aws-rds`. Right-click on `Databases` then select `Create`->`Database`
-23. Use `myapp` as the Database name then click the `Save` button.
-24. 
+7. Type in `masterpw` for the Password then click the `Save` button.
+8. Expand `aws-rds`. Right-click on `Databases` then select `Create`->`Database`
+9. Use `myapp` as the Database name then click the `Save` button.
 
 ## 📚 Authors
 ### Activity and Code Materials
