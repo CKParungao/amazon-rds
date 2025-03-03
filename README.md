@@ -22,6 +22,9 @@ Image
 2. Navigate to `RDS` then click the `Create database` button.
 3. Select `Standard create` for the database creation method.
 4. Click `PostgreSQL` for the engine type and retain the default engine version.
+
+![image](https://github.com/user-attachments/assets/d559c966-bdd4-4dc3-8e6f-575956a28b85)
+
 5. Choose `Free tier` for the template.
 6. Automatically, the deployment option should be for a `Single-AZ DB instance deployment (1 instance)` only.
 7. Type `my-first-db` for the DB instance identifier.
