@@ -51,7 +51,7 @@ Image
 3. Launch the pgAdmin application in your desktop.
 4. On the left tab, right-click on `Servers` and select `Register`->`Server`.
 5. Type `aws-rds` for the server name.
-6. On the Connection tab, paste the copied endpoint from RDS instance.
+6. On the Connection tab, paste the copied endpoint from the RDS instance.
 
 ![image](https://github.com/user-attachments/assets/d37f6d74-20e4-453c-9eb1-6fe4b04f163f)
 
