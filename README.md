@@ -52,7 +52,8 @@ Image
 
 ![image](https://github.com/user-attachments/assets/1f3bd768-6e56-4b12-90da-92932fd13f07)
 
-17. 
+17. Launch the pgAdmin application in your desktop.
+18. On the left tab, right-click on `Servers`, select `Register`->`Server`.
 
 ## ✒️ Part 2: Define database schemas and tables.
 
