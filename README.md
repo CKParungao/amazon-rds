@@ -18,7 +18,9 @@ Image
 4. **Connect the app to RDS** using the connection string.
 
 ## ✒️ Part 1: Create an RDS Instance and configure security for access.
-
+1. Log in to your AWS Console.
+2. Navigate to `RDS`.
+3. Click the `Create database` button.
 
 ## ✒️ Part 2: Define database schemas and tables.
 
@@ -30,7 +32,7 @@ Image
 
 
 ## 📚 Authors
-### Activity and Code Materials:
+### Activity and Code Materials
 - Sanjeev Thiyagarajan ([KodeKloud](https://youtu.be/ylmwaDUMV9c?si=jGnEN8NObwqD8-jc&t=421))
-### Learning Material:
+### Learning Material
 - Crystal Katherine Parungao ([CKParungao](https://github.com/CKParungao))
