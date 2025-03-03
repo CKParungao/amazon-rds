@@ -13,9 +13,7 @@ Image
 
 ## 🎯 Objectives
 1. **Create an RDS Instance** and configure security for access.
-2. **Define database schemas and tables.**
-3. **Launch an EC2 Instance** for hosting the app.
-4. **Connect the app to RDS** using the connection string.
+2. **Connect the App to RDS** using the connection string.
 
 ## ✒️ Part 1: Create an RDS Instance and configure security for access.
 1. Log in to your AWS Console.
@@ -52,6 +50,8 @@ Image
 
 ![image](https://github.com/user-attachments/assets/1f3bd768-6e56-4b12-90da-92932fd13f07)
 
+## ✒️ Part 2: Connect the App to RDS using the connection string.
+
 17. Launch the pgAdmin application in your desktop.
 18. On the left tab, right-click on `Servers` and select `Register`->`Server`.
 19. Type `aws-rds` for the server name.
@@ -59,16 +59,10 @@ Image
 
 ![image](https://github.com/user-attachments/assets/d37f6d74-20e4-453c-9eb1-6fe4b04f163f)
 
-21. Type in `masterpw` for the Password then click the `Save` button. 
-
-## ✒️ Part 2: Define database schemas and tables.
-
-
-## ✒️ Part 3: Launch an EC2 Instance for hosting the app.
-
-
-## ✒️ Part 4: Connect the app to RDS using the connection string.
-
+21. Type in `masterpw` for the Password then click the `Save` button.
+22. Expand `aws-rds`. Right-click on `Databases` then select `Create`->`Database`
+23. Use `myapp` as the Database name then click the `Save` button.
+24. 
 
 ## 📚 Authors
 ### Activity and Code Materials
