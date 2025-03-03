@@ -49,19 +49,19 @@ Image
 ![image](https://github.com/user-attachments/assets/c2ae0f0d-4507-48ff-acae-9c6f3585814c)
 
 3. Launch the pgAdmin application in your desktop.
-4. On the left tab, right-click on `Servers` and select `Register`->`Server`.
+4. On the left tab, right-click on `Servers` and select `Register`>`Server`.
 5. Type `aws-rds` for the server name.
 6. On the Connection tab, paste the copied endpoint from the RDS instance.
 
 ![image](https://github.com/user-attachments/assets/d37f6d74-20e4-453c-9eb1-6fe4b04f163f)
 
 7. Type in `masterpw` for the Password then click the `Save` button.
-8. Expand `aws-rds`. Right-click on `Databases` then select `Create`->`Database`
+8. Expand `aws-rds`. Right-click on `Databases` then select `Create`>`Database`
 9. Use `myapp` as the Database name then click the `Save` button.
 
 ## ✒️ Part 3: Housekeeping
 1. Once you have finished the activity and obtained the required screenshots, delete all created services and instances in RDS and in the pgAdmin app.
-2. Select on the radio button of `my-first-db`, then click on `Actions`->`Delete`.
+2. Select on the radio button of `my-first-db`, then click on `Actions`>`Delete`.
 
 ![image](https://github.com/user-attachments/assets/fc5113c2-19f8-4a9f-a703-b47d2580551c)
 
