@@ -2,8 +2,6 @@
 
 Amazon Relational Database Service (Amazon RDS) is an easy-to-manage relational database service optimized for total cost of ownership. It is simple to set up, operate, and scale with demand. In this activity, you will learn how to create, manage, and scale your own database in the cloud using Amazon RDS.
 
-Image
-
 **Disclaimer:** This activity is based on Sanjeev Thiyagarajan's [tutorial](https://youtu.be/ylmwaDUMV9c?si=jGnEN8NObwqD8-jc&t=421).
 
 ## 📋 Requirements
