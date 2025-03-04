@@ -62,8 +62,8 @@ Image
 10. **Take a SCREENSHOT of the WHOLE PAGE. Make sure that** `myapp-yourname` ** is visible in the photo.**
 
 ## ✒️ Part 3: Housekeeping
-1. Once you have finished the activity and obtained the required screenshots, delete all created services and instances in RDS and in the pgAdmin app.
-2. Select on the radio button of `my-first-db`, then click on `Actions`->`Delete`.
+1. Once you have finished the activity and obtained the required screenshots, delete all created services and instances in RDS and in the pgAdmin app to avoid incurring costs.
+2. Select the radio button of `my-first-db`, then click on `Actions`->`Delete`.
 
 ![image](https://github.com/user-attachments/assets/fc5113c2-19f8-4a9f-a703-b47d2580551c)
 
