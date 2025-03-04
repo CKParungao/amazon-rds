@@ -59,7 +59,7 @@ Image
 7. Type in `masterpw` for the Password then click the `Save` button.
 8. Expand `aws-rds`. Right-click on `Databases` then select `Create`-`Database`
 9. Use `myapp-yourname` as the Database name then click the `Save` button.
-10. **Take a screenshot of this page. Make sure that `myapp-yourname` is visible in the photo.**
+10. **Take a screenshot of this page. Make sure that** `myapp-yourname` **is visible in the photo.**
 
 ## ✒️ Part 3: Housekeeping
 1. Once you have finished the activity and obtained the required screenshots, delete all created services and instances in RDS and in the pgAdmin app.
