@@ -1,6 +1,6 @@
 # ☁️ Get Started: Setting Up a Relational Database in Amazon RDS ☁️
 
-Amazon RDS is chuchu chuchu. In this activity, you will learn how to create, manage, and scale your own database in the cloud using Amazon RDS.
+Amazon Relational Database Service (Amazon RDS) is an easy-to-manage relational database service optimized for total cost of ownership. It is simple to set up, operate, and scale with demand. In this activity, you will learn how to create, manage, and scale your own database in the cloud using Amazon RDS.
 
 Image
 
