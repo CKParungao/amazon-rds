@@ -38,7 +38,7 @@ Image
 
 12. In the VPC security group (firewall), choose `Create new` and type `my-db-sg` in the New VPC security group name.
 13. Finally, click `Create database` and wait for the Status to become `Available`.
-14. **Take a SCREENSHOT of this page. Make sure that your username is visible in the photo.**
+14. **Take a SCREENSHOT of the WHOLE PAGE. Make sure that your username is visible in the photo.**
 
 ## ✒️ Part 2: Connect the App to RDS using the connection string.
 1. Once the Status of the database turns to Available, click on `my-first-db`.
@@ -59,7 +59,7 @@ Image
 7. Type in `masterpw` for the Password then click the `Save` button.
 8. Expand `aws-rds`. Right-click on `Databases` then select `Create`-`Database`
 9. Use `myapp-yourname` as the Database name then click the `Save` button.
-10. **Take a SCREENSHOT of this page. Make sure that** `myapp-yourname` **is visible in the photo.**
+10. **Take a SCREENSHOT of the WHOLE PAGE. Make sure that** `myapp-yourname` ** is visible in the photo.**
 
 ## ✒️ Part 3: Housekeeping
 1. Once you have finished the activity and obtained the required screenshots, delete all created services and instances in RDS and in the pgAdmin app.
