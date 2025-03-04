@@ -11,9 +11,11 @@ Amazon Relational Database Service (Amazon RDS) is an easy-to-manage relational 
 
 ## 🎯 Objectives
 1. **Create an RDS Instance** and configure security for access.
-2. **Connect the App to RDS** using the connection string.
+2. **Define Database schemas and tables.**
+3. **Launch an EC2 Instance** for hosting the app.
+4. **Connect the App to RDS** using the connection string.
 
-## ✒️ Part 1: Create an RDS Instance and configure security for access.
+## ✒️ Part 1: Create an RDS Instance | Define Database Schemas and Tables | Launch an EC2 Instance 
 1. Log in to your AWS Console.
 2. Navigate to `RDS` then click the `Create database` button.
 3. Select `Standard create` for the database creation method.
